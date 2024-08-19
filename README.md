@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TafiquzzamanMD,Tamim
-- 👀 I’m interested in WebDevelopment,Mathematics,Learning New Things,Sports,Space Science
-- 🌱 I’m currently learning about online payment gateway,how it works
+- 👀 I’m interested in WebDevelopment,Mathematics,solving difficult problems through programming,facing challenges and overcome them,reading novels
+- 🌱 I’m currently learning about online payment gateway,api intrigration,python,laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..Email me anytime tafiquzzamantamim8@gmail.com or you can text me on facebook/meta https://www.facebook.com/tafiquzzamantamim.1
 
